@@ -1,5 +1,5 @@
 import React from 'react';
-import Form from './render1000/FormRedux';
+import Form from './demo/render1000/FormRedux';
 import { Provider } from "react-redux";
 import store from "./store";
 import './App.scss';
